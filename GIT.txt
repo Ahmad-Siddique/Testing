@@ -31,6 +31,11 @@ git remote add origin "Path"
 git push -u origin nameofthebranchtobepushed
 // Origin me bhi same naam hga aur saari changes push hojaen gi (-u means)
 
+git pull
+// Make changes from remote to local to all the code of remote...all the branches
+
+git pull origin branchname
+// Makes changes from remote to local to all the code of that branch
 
 
 
