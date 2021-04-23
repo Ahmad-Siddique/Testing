@@ -1,2 +1,14 @@
 git init
 // For creating git initializingkjansdknasdknaskd
+
+git add "Filename"
+
+git commit -a -m "Message"
+
+git reset commitid
+// It will only remove the commit
+
+git reset --hard commitid
+// it will bring it back to its back id position and remove the commit
+
+
