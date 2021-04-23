@@ -11,4 +11,27 @@ git reset commitid
 git reset --hard commitid
 // it will bring it back to its back id position and remove the commit
 
+git branch
+// HEHE
+// SHows list of branches..Current branch color will be green
+
+
+git checkout -b nameofbranchtobebuilt
+// Makes a new branch...Makes copy of the previous selected branch
+
+git checkout nameofbranch
+// Switches to that branch
+
+git merge branchname
+// It will merge branch with master
+
+git remote add origin "Path"
+// Identifies your path to the repository
+
+git push -u origin nameofthebranchtobepushed
+// Origin me bhi same naam hga aur saari changes push hojaen gi (-u means)
+
+
+
+
 
