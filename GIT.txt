@@ -37,6 +37,16 @@ git pull
 git pull origin branchname
 // Makes changes from remote to local to all the code of that branch
 
+git stash
+// saves your code.if u dont want to commit or add or to add in the history
+
+git stash pop
+// resumes your code. makes changes that u made earlier and saved it in git stash
+
+git stash list
+// gives u the history of ur work saved
+
+
 
 
 
